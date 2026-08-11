@@ -21,7 +21,7 @@ public class FluxoLaco {
 			
 		} while (num2 % num1 != 0);
 		
-		System.out.println("A execução encerrou");
+		System.out.println("A execução encerrou, o número escolhido não é divisível pelo primeiro número informado");
 
         scanner.close();
 		
