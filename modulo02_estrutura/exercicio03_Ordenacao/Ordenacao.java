@@ -45,4 +45,8 @@ public class Ordenacao {
 
         scanner.close();
 	}
+
+	public static <T> Comparator <T> reverseOrder() {
+		return Collections.reverseOrder();
+	}
 }
