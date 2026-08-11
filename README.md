@@ -15,29 +15,29 @@ Este repositório contém a resolução dos exercícios e desafios práticos do 
 ## 📂 Estrutura e Índice de Exercícios
 
 ### ⚡ Módulo 1: Fundamentos da Linguagem de Programação
-* [Exercício 01] (https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo01_fundamentos/exercicio01_CalculoIdade) * Entrada de dados, cálculo de idade com base no ano atual e exibição de mensagem formatada. *
-* [Exercício 02] (https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo01_fundamentos/exercicio02_AreaQuadrado) * Leitura do lado de um quadrado e aplicação da fórmula de área. *
-* [Exercício 03] (https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo01_fundamentos/exercicio03_AreaRetangulo) * Recebimento de base e altura para cálculo de área retangular. *
-* [Exercício 04] (https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo01_fundamentos/exercicio04_DiferencaIdade) * Entrada de dados e cálculo da diferença de idade entre duas pessoas *
+* [Exercício 01](https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo01_fundamentos/exercicio01_CalculoIdade) *Entrada de dados, cálculo de idade com base no ano atual e exibição de mensagem formatada.*
+* [Exercício 02](https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo01_fundamentos/exercicio02_AreaQuadrado) *Leitura do lado de um quadrado e aplicação da fórmula de área.*
+* [Exercício 03](https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo01_fundamentos/exercicio03_AreaRetangulo) *Recebimento de base e altura para cálculo de área retangular.*
+* [Exercício 04](https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo01_fundamentos/exercicio04_DiferencaIdade) *Entrada de dados e cálculo da diferença de idade entre duas pessoas*
 
 ### ⚡ Módulo 2: Estruturas de Controle e Fluxo
-* [Exercício 01] (https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo02_estrutura/exercicio01_Tabuada) * Uso de laço de repetição (for) para geração de tabuada de 1 a 10. *
-* [Exercício 02] (https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo02_estrutura/exercicio02_Imc) * Cálculo de IMC e classificação com estruturas condicionais encadeadas (if/else). *
-* [Exercício 03] (https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo02_estrutura/exercicio03_Ordenacao) * Filtragem e exibição em ordem decrescente de pares ou ímpares em um intervalo definido. *
-* [Exercício 04] (https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo02_estrutura/exercicio04_FluxoLaco) * Controle de fluxo com laço while, validação de divisibilidade (resto %) e critério de parada. *
+* [Exercício 01](https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo02_estrutura/exercicio01_Tabuada) *Uso de laço de repetição (for) para geração de tabuada de 1 a 10.*
+* [Exercício 02](https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo02_estrutura/exercicio02_Imc) *Cálculo de IMC e classificação com estruturas condicionais encadeadas (if/else).*
+* [Exercício 03](https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo02_estrutura/exercicio03_Ordenacao) *Filtragem e exibição em ordem decrescente de pares ou ímpares em um intervalo definido.*
+* [Exercício 04](https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo02_estrutura/exercicio04_FluxoLaco) *Controle de fluxo com laço while, validação de divisibilidade (resto %) e critério de parada.*
 
 ### ⚡ Módulo 3: Java e a Arte da Abstração com Classes e Encapsulamento
-* [Exercício 01] (https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo03_poo/exercicio01_ContaBancaria) * Orientação a Objetos aplicada a uma Conta Bancária com regras de limite de cheque especial, movimentações e cobrança de taxa de uso. *
-* [Exercício 02] (https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo03_poo/exercicio02_ControleVeiculo) * Modelagem de controle de veículo com validações de estado (ligado/desligado), limites de velocidade por marcha e regras de direção. *
-* [Exercício 03] (https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo03_poo/exercicio03_MaquinaPetshop) * Gerenciamento de máquina de banho para petshop com controle de insumos (água/shampoo), estado do animal e rotina de higienização. *
+* [Exercício 01](https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo03_poo/exercicio01_ContaBancaria) *Orientação a Objetos aplicada a uma Conta Bancária com regras de limite de cheque especial, movimentações e cobrança de taxa de uso.*
+* [Exercício 02](https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo03_poo/exercicio02_ControleVeiculo) *Modelagem de controle de veículo com validações de estado (ligado/desligado), limites de velocidade por marcha e regras de direção.*
+* [Exercício 03](https://github.com/Rafa-Pilla/AI_java_backend/tree/4b61f29e7e045042a3dce4f28c0a846dae2736ed/modulo03_poo/exercicio03_MaquinaPetshop) *Gerenciamento de máquina de banho para petshop com controle de insumos (água/shampoo), estado do animal e rotina de higienização.*
 
 ### ⚡ Módulo 4: Herança e Polimorfismo em Java
-* [Exercício 01] () * Aplicação de herança em ingressos de cinema com cálculo de valor real para Meia Entrada e Ingresso Família (desconto regressivo por quantidade). *
-* [Exercício 02] () * Estrutura de classes para usuários do sistema com encapsulamento de permissões administrativas e operações específicas. *
-* [Exercício 03] () * Sistema de relógios mundiais com classe base, formatação de horário e sincronização de horário entre instâncias. *
+* [Exercício 01]() *Aplicação de herança em ingressos de cinema com cálculo de valor real para Meia Entrada e Ingresso Família (desconto regressivo por quantidade).*
+* [Exercício 02]() *Estrutura de classes para usuários do sistema com encapsulamento de permissões administrativas e operações específicas.*
+* [Exercício 03]() *Sistema de relógios mundiais com classe base, formatação de horário e sincronização de horário entre instâncias.*
 
 ---
 ## 📂 Índice de Desafios
-* [Desafio 01] (https://github.com/Rafa-Pilla/AI_java_backend/tree/9eb5455634df5bea5d4325820f08c42b3c2a963d/Desafios/Desafio01_SalarioBruto) * Cálculo de salário líquido com aplicação de alíquotas de imposto por faixa salarial e acréscimo de benefícios. *
-* [Desafio 02] (https://github.com/Rafa-Pilla/AI_java_backend/tree/9eb5455634df5bea5d4325820f08c42b3c2a963d/Desafios/Desafio02_TransacaoValores) * Validação de saldo bancário e autorização de transação financeira usando estruturas condicionais simples. *
-* [Desafio 03] (https://github.com/Rafa-Pilla/AI_java_backend/tree/9eb5455634df5bea5d4325820f08c42b3c2a963d/Desafios/Desafio03_CriacaoConta) * Processamento de texto com 'split()' e 'equalsIgnoreCase()' para geração de saídas personalizadas de conta bancária. *
+* [Desafio 01](https://github.com/Rafa-Pilla/AI_java_backend/tree/9eb5455634df5bea5d4325820f08c42b3c2a963d/Desafios/Desafio01_SalarioBruto) *Cálculo de salário líquido com aplicação de alíquotas de imposto por faixa salarial e acréscimo de benefícios.*
+* [Desafio 02](https://github.com/Rafa-Pilla/AI_java_backend/tree/9eb5455634df5bea5d4325820f08c42b3c2a963d/Desafios/Desafio02_TransacaoValores) *Validação de saldo bancário e autorização de transação financeira usando estruturas condicionais simples.*
+* [Desafio 03](https://github.com/Rafa-Pilla/AI_java_backend/tree/9eb5455634df5bea5d4325820f08c42b3c2a963d/Desafios/Desafio03_CriacaoConta) *Processamento de texto com 'split()' e 'equalsIgnoreCase()' para geração de saídas personalizadas de conta bancária.*
