@@ -1,0 +1,50 @@
+# 📌 Conta Bancária
+
+> **Módulo:** Java e a Arte da Abstração com Classes e Encapsulamento
+> 
+> 
+> **Linguagem:** Java (JDK 21+)
+> 
+
+---
+
+## 🎯 Enunciado
+
+Desenvolva um algoritmo onde temos uma conta bancária que possa realizar as seguintes operações:
+
+- Consultar saldo
+- consultar cheque especial
+- Depositar dinheiro;
+- Sacar dinheiro;
+- Pagar um boleto.
+- Verifique se a conta está usando check especial.
+
+Cumprindo as seguintes regras de negócio:
+
+- Uma conta bancária deve ter um limite de cheque especial somado ao saldo da conta;
+- O valor do cheque especial é definido no momento da criação da conta, de acordo com o valor depositado na conta em sua criação;
+- Se o valor depositado na criação da conta for de R$500,00 ou menos o cheque especial deve ser de R$50,00
+- Para valores acima de R$500,00 o cheque especial deverá ser de 50% do valor depositado;
+- Caso o limite de cheque especial seja usado, assim que possível a conta deverá cobrar uma taxa de 20% do valor usado do cheque especial.
+
+---
+
+## 💻 Conceitos & Tecnologias Aplicados
+
+- **Entrada e Saída de Dados:** Uso da classe `Scanner` e exibição da mensagem com `println`
+- **Operações:**
+    - Criação da classe `Conta` com os atributos solicitados, métodos getter, setter, construtor e um método específico para cálculo do valor de cheque especial
+    - Criação dos menus usando o `do/while` para aplicação encerrar somente quando o usuário solicitar, além do uso do `switch/case` para ações de acordo com a escolha
+    - Uso de laços `if/else` para validação e operadores aritméticos simples para cálculos gerais
+    - Uso do método `split()` , da classe String, para separar a entrada string em duas informações
+
+---
+
+## 🚀 Como Executar
+
+1. Navegue até a pasta deste exercício
+2. Compile o arquivo Java:
+    
+    ```bash
+    javac NomeDoArquivo.java
+    ```
