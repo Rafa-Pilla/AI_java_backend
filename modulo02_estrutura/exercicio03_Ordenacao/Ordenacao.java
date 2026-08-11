@@ -1,5 +1,9 @@
 package modulo02_estrutura.exercicio03_Ordenacao;
 import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
 
 public class Ordenacao {
     public static void main(String[]args) {
@@ -16,19 +20,26 @@ public class Ordenacao {
 			
 		System.out.println("Escolha entre par ou ímpar (p/i)");
 		String tipo = scanner.nextLine();
+
+		List<Integer> lista = new ArrayList<>();
+		int i = 0;
 		
 		switch (tipo) {
 			case "p" : {
-				for (int i=num1;  i <= num2; i++) {
+				for (i=num1;  i <= num2; i++) {
 				    if (i % 2 == 0)
-                    System.out.println(i);
+                    lista.add(i);
                     } 
+				lista.sort(reverseOrder());
+				System.out.println(lista);
             } break;
 			case "i" : { 
-                for (int i=num1; i <= num2; i++) {
+                for (i=num1; i <= num2; i++) {
 				    if (i % 2 != 0)
-                    System.out.println(i);
+                    lista.add(i);
                     } 
+				lista.sort(reverseOrder());
+				System.out.println(lista);
 			} break;
 		}
 
