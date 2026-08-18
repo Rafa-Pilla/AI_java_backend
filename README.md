@@ -32,9 +32,9 @@ Este repositório contém a resolução dos exercícios e desafios práticos do 
 * [Exercício 03](https://github.com/Rafa-Pilla/AI_java_backend/tree/f069187a5e909af0214c7780fc065d1c1f750443/modulo03_poo/exercicio03_MaquinaPetshop) *Gerenciamento de máquina de banho para petshop com controle de insumos (água/shampoo), estado do animal e rotina de higienização.*
 
 ### ⚡ Módulo 4: Herança e Polimorfismo em Java
-* [Exercício 01]() *Aplicação de herança em ingressos de cinema com cálculo de valor real para Meia Entrada e Ingresso Família (desconto regressivo por quantidade).*
-* [Exercício 02]() *Estrutura de classes para usuários do sistema com encapsulamento de permissões administrativas e operações específicas.*
-* [Exercício 03]() *Sistema de relógios mundiais com classe base, formatação de horário e sincronização de horário entre instâncias.*
+* [Exercício 01](https://github.com/Rafa-Pilla/AI_java_backend/tree/8e818aa655594195a376dec0e05b6dce121faf55/modulo04_heranca_e_poliformismo/exercicio01) *Aplicação de herança em ingressos de cinema com cálculo de valor real para Meia Entrada e Ingresso Família (desconto regressivo por quantidade).*
+* [Exercício 02](https://github.com/Rafa-Pilla/AI_java_backend/tree/8e818aa655594195a376dec0e05b6dce121faf55/modulo04_heranca_e_poliformismo/exercicio02) *Estrutura de classes para usuários do sistema com encapsulamento de permissões administrativas e operações específicas.*
+* [Exercício 03](https://github.com/Rafa-Pilla/AI_java_backend/tree/8e818aa655594195a376dec0e05b6dce121faf55/modulo04_heranca_e_poliformismo/exercicio03) *Sistema de relógios mundiais com classe base, formatação de horário e sincronização de horário entre instâncias.*
 
 ---
 ## 📂 Índice de Desafios
